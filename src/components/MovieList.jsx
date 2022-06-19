@@ -13,9 +13,10 @@ const MovieList = (props) => {
 
     const viewClicked =(movie)=>{
       history.push({
-        pathname: '/MovieContent',
+        pathname: '/movie',
         state: { movie }
       });
+      window.location.reload();
     }
   
 

@@ -1,7 +1,7 @@
 const SearchBox = (props) => {
 
     return(
-        <div className="col col-sm-4">
+        <div style={{border: 'none', marginLeft: '-35%', padding: '0%'}} className="col col-sm-4">
             <input
             className="form-control"
             value={props.value}
