@@ -1,6 +1,6 @@
 # Movie and Tv show search app
 
-Welcome to my front-end devloped application of a tv show search appliction that uses omdb api. [Check the omdb Api](https://www.omdbapi.com/).
+Welcome to my front-end devloped application of a tv show search appliction that uses the [omdb api](https://www.omdbapi.com/).
 
 ## Purpose
 This website provides information on movies just like the name insist
@@ -16,6 +16,9 @@ This website provides information on movies just like the name insist
 
 ## Website Link
 [check it out](https://brume7.github.io/Movie-Application/).
+
+## Screenshot
+![image](https://i.ibb.co/Yy2bqX2/Screenshot-from-2022-07-04-23-28-20.png)
 
 ## Available Scripts
 
