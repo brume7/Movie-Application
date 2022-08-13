@@ -13,6 +13,7 @@ This website provides information on movies just like the name insist
 ## Built with
 * React Js
 * CSS
+* OMDB api
 
 ## Website Link
 [check it out](https://brume7.github.io/Movie-Application/).
